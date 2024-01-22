@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--managedworkspaceformpe-pep",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0b5a8b80-2eb4-4ecf-82c0-23e839ca21fa/resourceGroups/managedwithoutdata/providers/Microsoft.Storage/storageAccounts/pep",
+		"groupId": "dfs"
+	}
+}

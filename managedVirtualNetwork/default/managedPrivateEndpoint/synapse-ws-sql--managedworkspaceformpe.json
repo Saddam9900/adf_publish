@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--managedworkspaceformpe",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0b5a8b80-2eb4-4ecf-82c0-23e839ca21fa/resourceGroups/managedwithoutdata/providers/Microsoft.Synapse/workspaces/managedworkspaceformpe",
+		"groupId": "sql",
+		"fqdns": [
+			"managedworkspaceformpe.c230e69b-b907-4f11-a4d6-fe8f8925ea96.sql.azuresynapse.net"
+		]
+	}
+}
