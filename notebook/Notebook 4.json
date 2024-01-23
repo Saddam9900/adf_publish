@@ -1,7 +1,6 @@
 {
-	"name": "Notebook 1",
+	"name": "Notebook 4",
 	"properties": {
-		"description": "change",
 		"nbformat": 4,
 		"nbformat_minor": 2,
 		"bigDataPool": {
@@ -18,7 +17,7 @@
 				"spark.dynamicAllocation.enabled": "false",
 				"spark.dynamicAllocation.minExecutors": "2",
 				"spark.dynamicAllocation.maxExecutors": "2",
-				"spark.autotune.trackingId": "6123ee68-5303-438f-b54f-0b1f90abe849"
+				"spark.autotune.trackingId": "311a642a-5c2a-4e19-bb27-f5ce72df23ec"
 			}
 		},
 		"metadata": {
@@ -52,7 +51,7 @@
 			{
 				"cell_type": "code",
 				"source": [
-					"print(\"hello world\")"
+					"print(\"as\")"
 				],
 				"execution_count": 1
 			}
