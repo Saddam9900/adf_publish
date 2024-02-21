@@ -468,7 +468,7 @@
 						"spark.dynamicAllocation.enabled": "false",
 						"spark.dynamicAllocation.minExecutors": "2",
 						"spark.dynamicAllocation.maxExecutors": "2",
-						"spark.autotune.trackingId": "2231fea0-359a-47a6-ade7-bf32468e0850"
+						"spark.autotune.trackingId": "9ec5668a-f0b4-46db-9dd0-75968ea987c8"
 					}
 				},
 				"metadata": {
@@ -533,7 +533,7 @@
 						"spark.dynamicAllocation.enabled": "false",
 						"spark.dynamicAllocation.minExecutors": "2",
 						"spark.dynamicAllocation.maxExecutors": "2",
-						"spark.autotune.trackingId": "7ad5ec20-3bf1-4ffd-9cd2-c319f424c652"
+						"spark.autotune.trackingId": "05ab6931-0263-4879-945a-28a4ee7c9fad"
 					}
 				},
 				"metadata": {
@@ -568,7 +568,7 @@
 						"cell_type": "code",
 						"metadata": {},
 						"source": [
-							"print (\"sdf\")"
+							"print (\"sdf\")o"
 						],
 						"outputs": [],
 						"execution_count": 1
